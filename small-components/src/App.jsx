@@ -1,10 +1,9 @@
-import React from "react";
-import Accordion from "./Accordion/Accordion";
+import ProgressBar from "./ProgressBar/ProgressBar";
 
 const App = () => {
   return (
-    <div>
-      <Accordion />
+    <div className="h-screen w-screen">
+      <ProgressBar />
     </div>
   );
 };
