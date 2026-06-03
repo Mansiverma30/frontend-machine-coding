@@ -102,3 +102,24 @@ Successfully solved independently with in few minutes. (Not a big deal, I know, 
 * Toggle Pattern
 * Conditional Rendering
 * JSX Refactoring
+
+## Possible Follow Ups
+
+- Support multiple accordion items.
+- Allow only one item open at a time.
+- Allow multiple items open simultaneously.
+- Add smooth open/close animations.
+- Accept title and content through props.
+- Build a FAQ accordion from dynamic data.
+- Persist open state using localStorage.
+- Support nested accordions.
+
+## Previous Experience
+
+I had previously implemented:
+- Dynamic accordion data
+- Props-based content
+- Mapping multiple accordion items
+- Single active item using activeIndex
+
+For this machine coding exercise, I intentionally focused on building the simplest working version first.
