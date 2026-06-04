@@ -1,9 +1,9 @@
-import ProgressBar from "./ProgressBar/ProgressBar";
+import Tabs from "./Tabs/Tabs";
 
 const App = () => {
   return (
     <div className="h-screen w-screen">
-      <ProgressBar />
+      <Tabs />
     </div>
   );
 };
