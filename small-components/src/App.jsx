@@ -1,9 +1,9 @@
-import Tabs from "./Tabs/Tabs";
+import Star from "./Star/Star";
 
 const App = () => {
   return (
     <div className="h-screen w-screen">
-      <Tabs />
+      <Star />
     </div>
   );
 };

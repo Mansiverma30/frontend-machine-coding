@@ -7,3 +7,4 @@ Starting with the tiny stuff before pretending I can build a Discord clone. 😭
 * Accordian
 * Progress Bar
 * Tabs
+* Star
