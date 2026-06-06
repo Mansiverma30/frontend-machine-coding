@@ -1,9 +1,9 @@
-import Star from "./Star/Star";
+import Toast from "./Toast/Toast";
 
 const App = () => {
   return (
     <div className="h-screen w-screen">
-      <Star />
+      <Toast />
     </div>
   );
 };

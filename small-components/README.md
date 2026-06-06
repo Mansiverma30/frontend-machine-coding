@@ -8,3 +8,4 @@ Starting with the tiny stuff before pretending I can build a Discord clone. 😭
 * Progress Bar
 * Tabs
 * Star
+* Toast
