@@ -1,9 +1,9 @@
-import Toast from "./Toast/Toast";
+import Password from "./Password/Password";
 
 const App = () => {
   return (
     <div className="h-screen w-screen">
-      <Toast />
+      <Password />
     </div>
   );
 };

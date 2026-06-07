@@ -9,3 +9,5 @@ Starting with the tiny stuff before pretending I can build a Discord clone. 😭
 * Tabs
 * Star
 * Toast
+* Modal
+* Password Toggle
