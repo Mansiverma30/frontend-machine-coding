@@ -1,9 +1,9 @@
-import CharacterCounter from "./CharacterCounter/CharacterCounter";
+import Dropdown from "./Dropdown/Dropdown";
 
 const App = () => {
   return (
     <div className="h-screen w-screen">
-      <CharacterCounter />
+      <Dropdown />
     </div>
   );
 };
