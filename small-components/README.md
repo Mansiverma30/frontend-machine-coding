@@ -13,3 +13,4 @@ Starting with the tiny stuff before pretending I can build a Discord clone. 😭
 * Password Toggle
 * Character Counter
 * Dropdown
+* Copy To Clipboard

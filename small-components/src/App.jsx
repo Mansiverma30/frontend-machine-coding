@@ -1,9 +1,9 @@
-import Dropdown from "./Dropdown/Dropdown";
+import Copy from "./Copy/Copy";
 
 const App = () => {
   return (
     <div className="h-screen w-screen">
-      <Dropdown />
+      <Copy />
     </div>
   );
 };
