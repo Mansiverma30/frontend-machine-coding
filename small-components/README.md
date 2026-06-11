@@ -14,3 +14,5 @@ Starting with the tiny stuff before pretending I can build a Discord clone. 😭
 * Character Counter
 * Dropdown
 * Copy To Clipboard
+* Search Filter
+* Temperature Converter

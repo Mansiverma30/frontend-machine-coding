@@ -1,9 +1,9 @@
-import Copy from "./Copy/Copy";
+import Temperature from "./components/Temperature/Temperature";
 
 const App = () => {
   return (
     <div className="h-screen w-screen">
-      <Copy />
+      <Temperature />
     </div>
   );
 };
