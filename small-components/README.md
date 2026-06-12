@@ -16,3 +16,4 @@ Starting with the tiny stuff before pretending I can build a Discord clone. 😭
 * Copy To Clipboard
 * Search Filter
 * Temperature Converter
+* OTP Input

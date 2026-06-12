@@ -1,9 +1,9 @@
-import Temperature from "./components/Temperature/Temperature";
+import Otp from "./components/OTP/Otp";
 
 const App = () => {
   return (
     <div className="h-screen w-screen">
-      <Temperature />
+      <Otp />
     </div>
   );
 };
