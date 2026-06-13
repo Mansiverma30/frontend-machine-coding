@@ -17,3 +17,4 @@ Starting with the tiny stuff before pretending I can build a Discord clone. 😭
 * Search Filter
 * Temperature Converter
 * OTP Input
+* Random Quote Generator

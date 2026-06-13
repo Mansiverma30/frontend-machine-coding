@@ -1,9 +1,9 @@
-import Otp from "./components/OTP/Otp";
+import RandomQuote from "./components/RandomQuote/RandomQuote";
 
 const App = () => {
   return (
     <div className="h-screen w-screen">
-      <Otp />
+      <RandomQuote />
     </div>
   );
 };
