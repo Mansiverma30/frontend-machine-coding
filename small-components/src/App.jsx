@@ -1,9 +1,9 @@
-import RandomQuote from "./components/RandomQuote/RandomQuote";
+import DigitalClock from "./components/DigitalClock/DigitalClock";
 
 const App = () => {
   return (
     <div className="h-screen w-screen">
-      <RandomQuote />
+      <DigitalClock />
     </div>
   );
 };
