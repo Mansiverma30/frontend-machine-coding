@@ -1,9 +1,9 @@
-import DigitalClock from "./components/DigitalClock/DigitalClock";
+import Stopwatch from "./components/Stopwatch/Stopwatch";
 
 const App = () => {
   return (
     <div className="h-screen w-screen">
-      <DigitalClock />
+      <Stopwatch />
     </div>
   );
 };

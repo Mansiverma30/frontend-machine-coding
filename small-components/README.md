@@ -19,3 +19,4 @@ Starting with the tiny stuff before pretending I can build a Discord clone. 😭
 * OTP Input
 * Random Quote Generator
 * Digital Clock
+* Stopwatch (chota sa)
