@@ -1,9 +1,9 @@
-import Stopwatch from "./components/Stopwatch/Stopwatch";
+import Countdown from "./components/Countdown/Countdown";
 
 const App = () => {
   return (
     <div className="h-screen w-screen">
-      <Stopwatch />
+      <Countdown />
     </div>
   );
 };
