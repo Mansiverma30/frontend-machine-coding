@@ -1,9 +1,9 @@
-import Todo from "./components/Todo/Todo";
+import BMI from "./components/BMI/BMI";
 
 function App() {
   return (
     <div className="h-screen w-screen">
-      <Todo />
+      <BMI />
     </div>
   );
 }
