@@ -10,9 +10,9 @@ Building strong frontend engineering skills through daily machine coding practic
 
 ## Progress
 
-- Current Streak: 18 days (Yayayaya 💅)
+- Current Streak: 19 days (Yayayaya 💅)
 - Components Built: 19 (with patience???)
-- Refactored: 0 (Just for off days)
+- Refactored: 1 (Just for off days)
 - Machine Coding Tests: 0 (Hmmmmmmmmmmmmmmmm)
 
 ## Topics Covered

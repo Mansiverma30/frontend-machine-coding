@@ -1,9 +1,9 @@
-import Countdown from "./components/Countdown/Countdown";
+import CountdownRev from "./components/Countdown/CountdownRev";
 
 const App = () => {
   return (
     <div className="h-screen w-screen">
-      <Countdown />
+      <CountdownRev />
     </div>
   );
 };
