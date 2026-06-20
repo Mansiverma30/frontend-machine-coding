@@ -1,9 +1,9 @@
-import BMI from "./components/BMI/BMI";
+import RPS from "./components/RPS/RPS";
 
 function App() {
   return (
     <div className="h-screen w-screen">
-      <BMI />
+      <RPS />
     </div>
   );
 }
