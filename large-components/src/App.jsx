@@ -1,9 +1,9 @@
-import RPS from "./components/RPS/RPS";
+import Debounce from "./components/Debounce/Debounce";
 
 function App() {
   return (
     <div className="h-screen w-screen">
-      <RPS />
+      <Debounce />
     </div>
   );
 }

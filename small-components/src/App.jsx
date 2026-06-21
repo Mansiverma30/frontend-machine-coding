@@ -1,9 +1,9 @@
-import CountdownRev from "./components/Countdown/CountdownRev";
+import WindowsResizeTracker from "./components/WindowsResizeTracker/WindowsResizeTracker";
 
 const App = () => {
   return (
     <div className="h-screen w-screen">
-      <CountdownRev />
+      <WindowsResizeTracker />
     </div>
   );
 };
