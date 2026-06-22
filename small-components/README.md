@@ -21,3 +21,4 @@ Starting with the tiny stuff before pretending I can build a Discord clone. 😭
 * Digital Clock
 * Stopwatch (chota sa)
 * Countdown Timer
+* Window Resize Tracker
