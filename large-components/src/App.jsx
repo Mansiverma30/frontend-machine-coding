@@ -1,9 +1,9 @@
-import Debounce from "./components/Debounce/Debounce";
+import ImageCarousel from "./components/ImageCarousel/ImageCarousel";
 
 function App() {
   return (
     <div className="h-screen w-screen">
-      <Debounce />
+      <ImageCarousel />
     </div>
   );
 }

@@ -8,3 +8,4 @@ It's time for large components so one day I can create Discord clone 😎
 * BMI calc
 * Rock paper scissors (mehhhh)
 * Debounce
+* Image Carousel
