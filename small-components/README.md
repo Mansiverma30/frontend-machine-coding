@@ -22,3 +22,5 @@ Starting with the tiny stuff before pretending I can build a Discord clone. 😭
 * Stopwatch (chota sa)
 * Countdown Timer
 * Window Resize Tracker
+* Number Guess Game
+* Password Strength

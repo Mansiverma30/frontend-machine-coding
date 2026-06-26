@@ -1,9 +1,9 @@
-import WindowsResizeTracker from "./components/WindowsResizeTracker/WindowsResizeTracker";
+import NumberGuess from "./components/NumberGuess/NumberGuess";
 
 const App = () => {
   return (
     <div className="h-screen w-screen">
-      <WindowsResizeTracker />
+      <NumberGuess />
     </div>
   );
 };
