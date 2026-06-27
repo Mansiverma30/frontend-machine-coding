@@ -1,9 +1,9 @@
-import ImageCarousel from "./components/ImageCarousel/ImageCarousel";
+import TicTacToe from "./components/TicTacToe/TicTacToe";
 
 function App() {
   return (
-    <div className="h-screen w-screen">
-      <ImageCarousel />
+    <div className="h-screen">
+      <TicTacToe />
     </div>
   );
 }
