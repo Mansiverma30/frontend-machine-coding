@@ -1,9 +1,9 @@
-import TicTacToe from "./components/TicTacToe/TicTacToe";
+import Pagination from "./components/Pagination/Pagination";
 
 function App() {
   return (
     <div className="h-screen">
-      <TicTacToe />
+      <Pagination />
     </div>
   );
 }
