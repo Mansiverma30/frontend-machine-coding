@@ -14,6 +14,7 @@ Building strong frontend engineering skills through daily machine coding practic
 - Components Built: 29 (with patience???)
 - Refactored / Revision: 3 (Just for off days)
 - Machine Coding Tests: 0 (Hmmmmmmmmmmmmmmmm)
+- Streak freeze left (3 per month): 2
 
 ## Topics Covered
 
